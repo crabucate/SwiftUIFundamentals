@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/felix/Coding/SwiftUI Fundamentals/03-Barcode Scanner/Barcode Scanner.xcodeproj">
    </FileRef>
 </Workspace>

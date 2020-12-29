@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DC6E5C4D257F7824006AC25D /* BarCodeScanner_SeanAllen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BarCodeScanner_SeanAllen.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC6E5C4D257F7824006AC25D /* Barcode Scanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Barcode Scanner.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC6E5C50257F7824006AC25D /* BarCodeScanner_SeanAllenApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarCodeScanner_SeanAllenApp.swift; sourceTree = "<group>"; };
 		DC6E5C52257F7824006AC25D /* BarCodeScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarCodeScannerView.swift; sourceTree = "<group>"; };
 		DC6E5C54257F7826006AC25D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		DC6E5C44257F7824006AC25D = {
 			isa = PBXGroup;
 			children = (
-				DC6E5C4F257F7824006AC25D /* BarCodeScanner_SeanAllen */,
+				DC6E5C4F257F7824006AC25D /* Barcode Scanner */,
 				DC6E5C4E257F7824006AC25D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,12 +52,12 @@
 		DC6E5C4E257F7824006AC25D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DC6E5C4D257F7824006AC25D /* BarCodeScanner_SeanAllen.app */,
+				DC6E5C4D257F7824006AC25D /* Barcode Scanner.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DC6E5C4F257F7824006AC25D /* BarCodeScanner_SeanAllen */ = {
+		DC6E5C4F257F7824006AC25D /* Barcode Scanner */ = {
 			isa = PBXGroup;
 			children = (
 				DCAB0F04257FB945004D604C /* Utilities */,
@@ -68,7 +68,7 @@
 				DC6E5C59257F7826006AC25D /* Info.plist */,
 				DC6E5C56257F7826006AC25D /* Preview Content */,
 			);
-			path = BarCodeScanner_SeanAllen;
+			path = "Barcode Scanner";
 			sourceTree = "<group>";
 		};
 		DC6E5C56257F7826006AC25D /* Preview Content */ = {
@@ -124,9 +124,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DC6E5C4C257F7824006AC25D /* BarCodeScanner_SeanAllen */ = {
+		DC6E5C4C257F7824006AC25D /* Barcode Scanner */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DC6E5C5C257F7826006AC25D /* Build configuration list for PBXNativeTarget "BarCodeScanner_SeanAllen" */;
+			buildConfigurationList = DC6E5C5C257F7826006AC25D /* Build configuration list for PBXNativeTarget "Barcode Scanner" */;
 			buildPhases = (
 				DC6E5C49257F7824006AC25D /* Sources */,
 				DC6E5C4A257F7824006AC25D /* Frameworks */,
@@ -136,9 +136,9 @@
 			);
 			dependencies = (
 			);
-			name = BarCodeScanner_SeanAllen;
+			name = "Barcode Scanner";
 			productName = BarCodeScanner_SeanAllen;
-			productReference = DC6E5C4D257F7824006AC25D /* BarCodeScanner_SeanAllen.app */;
+			productReference = DC6E5C4D257F7824006AC25D /* Barcode Scanner.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -155,7 +155,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DC6E5C48257F7824006AC25D /* Build configuration list for PBXProject "BarCodeScanner_SeanAllen" */;
+			buildConfigurationList = DC6E5C48257F7824006AC25D /* Build configuration list for PBXProject "Barcode Scanner" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -168,7 +168,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DC6E5C4C257F7824006AC25D /* BarCodeScanner_SeanAllen */,
+				DC6E5C4C257F7824006AC25D /* Barcode Scanner */,
 			);
 		};
 /* End PBXProject section */
@@ -324,10 +324,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"BarCodeScanner_SeanAllen/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Barcode Scanner/Preview Content\"";
 				DEVELOPMENT_TEAM = T3L732D2U5;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = BarCodeScanner_SeanAllen/Info.plist;
+				INFOPLIST_FILE = "Barcode Scanner/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -346,10 +346,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"BarCodeScanner_SeanAllen/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Barcode Scanner/Preview Content\"";
 				DEVELOPMENT_TEAM = T3L732D2U5;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = BarCodeScanner_SeanAllen/Info.plist;
+				INFOPLIST_FILE = "Barcode Scanner/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -365,7 +365,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DC6E5C48257F7824006AC25D /* Build configuration list for PBXProject "BarCodeScanner_SeanAllen" */ = {
+		DC6E5C48257F7824006AC25D /* Build configuration list for PBXProject "Barcode Scanner" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DC6E5C5A257F7826006AC25D /* Debug */,
@@ -374,7 +374,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DC6E5C5C257F7826006AC25D /* Build configuration list for PBXNativeTarget "BarCodeScanner_SeanAllen" */ = {
+		DC6E5C5C257F7826006AC25D /* Build configuration list for PBXNativeTarget "Barcode Scanner" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DC6E5C5D257F7826006AC25D /* Debug */,
